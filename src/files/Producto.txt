@@ -1,0 +1,14 @@
+Parrillera-2--0--0--0--0-Seleccione-0-29.0
+-0--0--0-Gelatina Copa-2--0-Seleccione-0-7.8
+-0--0--0-Flan Copa-2--0-Seleccione-0-7.8
+-0--0-Papa Regular-2--0--0-Seleccione-0-7.8
+Royal-5-Muslo Brosther-3--0--0--0-Seleccione-0-52.5
+Monica;Doble queso;2;Pecho Brosther;3;Seleccione;0;Seleccione;0;Seleccione;0;Seleccione;0;23.0
+Monica;Royal;0;Pecho Brosther;0;Seleccione;0;Seleccione;0;Seleccione;0;Seleccione;0;0.0
+Monica;Royal;0;Pecho Brosther;0;Seleccione;0;Seleccione;0;Seleccione;0;Seleccione;0;0.0
+Monica;Royal;2;Pecho Brosther;2;Seleccione;0;Seleccione;0;Seleccione;0;Seleccione;0;21.0
+Jorge;Parrillera;3;Seleccione;0;Papa Familiar;1;Seleccione;0;Seleccione;0;Seleccione;0;50.4
+manuel;Bic Mac;1;Alita Brosther;2;Papa Regular;1;Seleccione;0;Seleccione;0;Seleccione;0;16.4
+MONICA;Seleccione;0;Seleccione;0;Seleccione;0;Gelatina Copa;4;Seleccione;0;Seleccione;0;15.6
+JUANA;Seleccione;0;Seleccione;0;Seleccione;0;Seleccione;0;Coca cola Personal;6;Seleccione;0;15.0
+Maria;Doble queso;2;Pecho Brosther;1;Seleccione;0;Seleccione;0;Seleccione;0;Seleccione;0;23.0

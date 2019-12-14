@@ -1,0 +1,7 @@
+444;72438062;estefany;mamani;967883848;mp;Cajero;lima;vddd
+10000001;555;junior;huaraz;81345654;null;Anfitriona;lima;derecha
+100000011;555;juniorr;huarazz;813456544;null;Mesero;limaa;derechaa
+5678;72438062;Monica;Mamani;967883848;null;Administrador;lima;av peru
+5678;8963452;Gianela;Chavez;96352741;null;Anfitriona;lima;av peru gege
+1234;72438063;Aron;Gomes;963852710;null;Cajero;smp;Av peru
+1234;72438062;Monica;Mamani;967883848;null;Administrador;smp;Av peru
